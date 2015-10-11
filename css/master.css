@@ -1,0 +1,98 @@
+body {
+  background-color: #E0E0EB;
+  color: #808080;
+  padding: 10px;
+  position: relative;
+}
+
+article {
+  background-color: #fff;
+  width: 20rem;
+  vertical-align: text-bottom;
+  border: 1px solid #999999;
+  border-radius: 7px;
+  padding: 1.5rem;
+  position: relative;
+  left: 15%;
+  top: 1.8rem;
+}
+
+.red-text {
+  color: #eb5368;
+}
+
+.blue-text {
+  color: #46afe3;
+}
+
+.green-text {
+  color: #70bf53;
+}
+
+h1 {
+  color: #808080;
+  font-size: 1.3rem;
+  font-family: Arial, san-serif;
+  font-weight: bold;
+  position: relative;
+  margin-left: 30px;
+}
+
+h2 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  font-family: Arial, san-serif;
+  color: #6600FF;
+  line-height: 1.6rem;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+h3 {
+  font-family: Arial, san-serif;
+  font-size: 1.1em;
+  font-weight: normal;
+  margin-bottom:0px;
+}
+
+ul{
+  margin:0px;
+}
+
+.color-list{
+  margin:0px;
+}
+
+p {
+  font-size: .9rem;
+  font-family: Arial, san-serif;
+  font-weight: normal;
+  line-height: 1.3rem;
+  margin-bottom: auto;
+}
+
+div {
+  font-size: .9rem;
+  font-family: Arial, san-serif;
+  font-weight: normal;
+}
+
+.pictureBox {
+  border: 2px solid #3333CC;
+  border-radius: 7px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer{
+  background-color: #A3A3C2;
+  width:auto;
+  margin-top: 40px;
+  font-size: .7rem;
+  font-family: arial, sans-serif;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
